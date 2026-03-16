@@ -17,9 +17,6 @@
     time-to-max-speed-ms = <300>;
 };
 
-&msc {
-};
-
 / {
 
 combos {
