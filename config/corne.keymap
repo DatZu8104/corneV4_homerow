@@ -17,6 +17,9 @@
     time-to-max-speed-ms = <300>;
 };
 
+&msc {
+};
+
 };
 
 / {
@@ -112,6 +115,9 @@ behaviors {
         #binding-cells = <0>;
         bindings = <&none>, <&bootloader>;
     };
+};
+
+behaviors {
 };
 
 behaviors {
