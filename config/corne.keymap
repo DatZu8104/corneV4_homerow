@@ -20,8 +20,6 @@
 &msc {
 };
 
-};
-
 / {
 
 combos {
@@ -241,6 +239,4 @@ conditional_layers {
         if-layers = <2 6>;
         then-layer = <8>;
     };
-};
-
 };
